@@ -1,0 +1,23 @@
+Выбранные явно
+	Функции ISBL
+		ExportDataInXLSX
+	Отчеты
+		ContractsExport
+		CounterpartyExport
+		OrdersExport
+		OrganizationalStructureExport
+		OutLettersExport
+		PersonExport
+		SupAgreementsExport
+	Сценарии
+		ExportDataLauncher
+		ExportDocumentBody
+Выбранные автоматически
+	Группы функций
+		Механизм экспорта
+	Модули
+		Механизм экспорта
+	Серверные события
+		ExportDocumentBody
+	Приложения-просмотрщики
+		XLSX

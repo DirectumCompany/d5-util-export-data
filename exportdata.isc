@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes"?>
+<Components Configuration="true">
+  <Reports>
+    <Report KeyValue="ContractsExport" DisplayValue="Экспорт договоров для загрузки в DirectumRX" RefID="-1"/>
+    <Report KeyValue="CounterpartyExport" DisplayValue="Экспорт организаций для загрузки в DirectumRX" RefID="-1"/>
+    <Report KeyValue="OrdersExport" DisplayValue="Экспорт приказов и распоряжений для загрузки в DirectumRX" RefID="-1"/>
+    <Report KeyValue="OrganizationalStructureExport" DisplayValue="Экспорт оргструктуры для загрузки в DirectumRX" RefID="-1"/>
+    <Report KeyValue="OutLettersExport" DisplayValue="Экспорт исходящих писем для загрузки в DirectumRX" RefID="-1"/>
+    <Report KeyValue="PersonExport" DisplayValue="Экспорт персон для загрузки в DirectumRX" RefID="-1"/>
+    <Report KeyValue="SupAgreementsExport" DisplayValue="Экспорт доп. соглашений для загрузки в DirectumRX" RefID="-1"/>
+  </Reports>
+  <Scripts>
+    <Script KeyValue="ExportDataLauncher" DisplayValue="Экспорт данных в XLSX" RefID="-1"/>
+    <Script KeyValue="ExportDocumentBody" DisplayValue="Экспорт тела документа" RefID="-1"/>
+  </Scripts>
+  <Functions>
+    <Function KeyValue="ExportDataInXLSX" DisplayValue="ExportDataInXLSX" RefID="-1"/>
+  </Functions>
+</Components>
