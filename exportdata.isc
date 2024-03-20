@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="windows-1251" standalone="yes"?>
 <Components Configuration="true">
+  <Functions>
+    <Function KeyValue="ExportDataInXLSX" DisplayValue="ExportDataInXLSX" RefID="-1"/>
+  </Functions>
   <Reports>
     <Report KeyValue="ContractsExport" DisplayValue="Экспорт договоров для загрузки в DirectumRX" RefID="-1"/>
     <Report KeyValue="CounterpartyExport" DisplayValue="Экспорт организаций для загрузки в DirectumRX" RefID="-1"/>
@@ -13,7 +16,4 @@
     <Script KeyValue="ExportDataLauncher" DisplayValue="Экспорт данных в XLSX" RefID="-1"/>
     <Script KeyValue="ExportDocumentBody" DisplayValue="Экспорт тела документа" RefID="-1"/>
   </Scripts>
-  <Functions>
-    <Function KeyValue="ExportDataInXLSX" DisplayValue="ExportDataInXLSX" RefID="-1"/>
-  </Functions>
 </Components>
